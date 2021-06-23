@@ -13,4 +13,4 @@
 <p> Pretendo utilizar esta plataforma como uma espécie de biblioteca para os meus projetos, afim de registrar aqui, minha experiência e os mínimos progressos que eu faço. Indubitavelmente encontraremos de início projetos ainda muito básicos e abstratos, afinal são exercícios idealizados com o fim de servir como um exercício de fixação para conceitos mais amplos dos quais tenho de apropriar-me.</p>
 <p> Peço encarecidamente aos que podem acabar passando por aqui que deixem alguma sugestão sobre aquilo que acharem pontual, qualquer comentário feito com a finalidade de ajudar o desenvolvimento profissional deste que vos fala, será muito mais do que bem vindo.</p>
 
-<p text-align="center">2021</p>
+<p align="center">2021</p>
